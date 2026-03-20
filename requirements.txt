@@ -6,15 +6,14 @@ tenacity
 
 # LangChain stack
 langchain
-langchain-classic
 langchain-community
 langchain-google-genai
 langchain-groq
 langchain-text-splitters
-sentence-transformers<3.0
+sentence-transformers
 
 # Vector store
-faiss-cpu==1.9.0
+faiss-cpu
 
 # Google AI
 google-generativeai
@@ -24,5 +23,5 @@ ragas
 datasets
 
 # Utilities
-numpy<2.0
+numpy
 pandas
