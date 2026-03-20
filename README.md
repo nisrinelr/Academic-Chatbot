@@ -67,6 +67,10 @@ streamlit run src/ui.py
 
 Evaluation results and graphs can be found in the `evals/` and `assets/` directories. Use `evals/ragas_eval.py` to run evaluations.
 
+## Deployement
+
+The app was deployed on Streamlit, you can check it on : https://academic-chatbot-gyseabzdwihugwyafe6igb.streamlit.app/
+
 ## License
 
 [MIT License](LICENSE)
