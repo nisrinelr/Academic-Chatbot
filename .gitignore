@@ -36,3 +36,4 @@ faiss_index_*/
 data/
 !data/.gitkeep
 evals/*.csv
+deployment_guide.md
