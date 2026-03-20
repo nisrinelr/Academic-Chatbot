@@ -7,6 +7,7 @@ tenacity
 # LangChain stack
 langchain
 langchain-community
+langchain-classic
 langchain-google-genai
 langchain-groq
 langchain-text-splitters
